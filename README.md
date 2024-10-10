@@ -61,3 +61,12 @@ Aplicația este destinată unei echipe care dorește să își gestioneze sarcin
 ### Nr. 3.2. Crearea rutelor pentru sarcini
 
 1. Creați un controller TaskController pentru gestionarea cererilor legate de sarcini și adăugați următoarele metode:
+   index — afișarea listei de sarcini;
+   create — afișarea formularului pentru crearea unei sarcini;
+   store — salvarea unei sarcini noi;
+   show — afișarea unei sarcini;
+   edit — afișarea formularului pentru editarea unei sarcini;
+   update — actualizarea sarcinii;
+   destroy — ștergerea sarcinii.
+
+-   ![Creare TaskController](image-9.png)
